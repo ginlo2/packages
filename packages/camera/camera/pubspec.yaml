@@ -22,11 +22,11 @@ flutter:
 
 dependencies:
   camera_android_camerax:
-    #git:
-    #  url: git@github.com:ginlo2/packages.git
-    #  path: packages/camera/camera_android_camerax
-    #  ref: ginlo
-    path: /Users/ks/ginlo/packages/packages/camera/camera_android_camerax
+    git:
+      url: git@github.com:ginlo2/packages.git
+      path: packages/camera/camera_android_camerax
+      ref: ginlo
+    #path: /Users/ks/ginlo/packages/packages/camera/camera_android_camerax
 
   camera_avfoundation: ^0.9.18
   camera_platform_interface: ^2.9.0
